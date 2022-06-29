@@ -1,0 +1,14 @@
+[
+    {
+        "gameID": "1",
+        "name": "IPL - CSK vs MI"
+    },
+    {
+        "gameID":"2",
+        "name" :"IPL - RCB vs MI"
+    },
+    {
+        "gameID":"3",
+        "name" :"Champions League - Chelsea vs Barcelona"
+    }
+]
